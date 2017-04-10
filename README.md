@@ -24,7 +24,7 @@ To install, you'll need a working Python environment with `boto` installed. Inst
 
 Alternatively, you can run this tool in a container:
 
-    $ docker run -it -e AWS_ACCESS_KEY_ID=***** -e AWS_SECRET_ACCESS_KEY=***** fheng/tag_instances
+    $ docker run -it -e AWS_ACCESS_KEY_ID=***** -e AWS_SECRET_ACCESS_KEY=***** feedhenry/tag_instances
 
 ## Running - Environment Variables
 
